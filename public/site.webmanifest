@@ -1,0 +1,16 @@
+{
+  "name": "Verden Farms",
+  "short_name": "Verden Farms",
+  "description": "Climate-smart vertical farming systems for Africa.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f6ef",
+  "theme_color": "#166534",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
